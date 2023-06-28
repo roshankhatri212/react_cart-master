@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 12",
+    "company": "apple",
+    "isCart":false
+  },
+  {
+    "id": 2,
+    "name": "oneplus 10t",
+    "company": "oneplus",
+    "isCart":false
+  },
+  {
+    "id": 3,
+    "name": "galaxy s11",
+    "company": "samsung",
+    "isCart":false
+  }
+]
