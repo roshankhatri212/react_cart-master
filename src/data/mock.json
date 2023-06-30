@@ -16,11 +16,5 @@
     "name": "galaxy s11",
     "company": "samsung",
     "isCart":false
-  },
-  {
-    "id": 4,
-    "name": "Macbook pro",
-    "company": "apple",
-    "isCart":false
   }
 ]
