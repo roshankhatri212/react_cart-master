@@ -28,11 +28,5 @@
     "name": "galaxy s13",
     "company": "samsung",
     "isCart":false
-  },
-  {
-    "id": 6,
-    "name": "galaxy s14",
-    "company": "samsung",
-    "isCart":false
   }
 ]
