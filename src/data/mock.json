@@ -23,5 +23,11 @@
     "company": "samsung",
     "isCart":false
 
+  },
+  {
+    "id": 5,
+    "name": "galaxy s13",
+    "company": "samsung",
+    "isCart":false
   }
 ]
