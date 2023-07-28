@@ -16,5 +16,17 @@
     "name": "galaxy s11",
     "company": "samsung",
     "isCart":false
+  },
+  {
+    "id": 4,
+    "name": "galaxy s12",
+    "company": "samsung",
+    "isCart":false
+  },
+  {
+    "id": 5,
+    "name": "galaxy s13",
+    "company": "samsung",
+    "isCart":false
   }
 ]
